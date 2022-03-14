@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm nikhil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **FRONTEND PROJECT**
 
-- 🌱 I’m currently learning **anything that excites me**
+- 🌱 I’m currently learning **MERN TECHNOLOGY**
 
 - 👯 I’m looking to collaborate on **about life**
 
-- 🤝 I’m looking for help with **New Ideas**
+<!-- - 🤝 I’m looking for help with **New Ideas**
 
 - 💬 Ask me about **Something Interesting**
-
+ -->
 - 📫 How to reach me **nikhilgupta012001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
