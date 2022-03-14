@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm nikhil</h1>
+<h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Pre-Final Year at GLA University , Mathura</h3>
+
 
 - 🔭 I’m currently working on **FRONTEND PROJECT**
 
